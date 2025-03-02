@@ -6,5 +6,17 @@ namespace kpl_tp3
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nama = textBox1.Text;
+
+            output.Text = "Halo, "+nama;
+        }
     }
 }

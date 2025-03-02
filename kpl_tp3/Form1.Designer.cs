@@ -28,12 +28,56 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            textBox1 = new TextBox();
+            submitBtn = new Button();
+            output = new Label();
+            SuspendLayout();
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(135, 146);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(383, 23);
+            textBox1.TabIndex = 0;
+            // 
+            // submitBtn
+            // 
+            submitBtn.Location = new Point(589, 146);
+            submitBtn.Name = "submitBtn";
+            submitBtn.Size = new Size(130, 23);
+            submitBtn.TabIndex = 1;
+            submitBtn.Text = "Submit";
+            submitBtn.UseVisualStyleBackColor = true;
+            submitBtn.Click += button1_Click;
+            // 
+            // output
+            // 
+            output.AutoSize = true;
+            output.Location = new Point(135, 196);
+            output.Name = "output";
+            output.Size = new Size(45, 15);
+            output.TabIndex = 2;
+            output.Text = "Output";
+            output.Click += label1_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(output);
+            Controls.Add(submitBtn);
+            Controls.Add(textBox1);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private TextBox textBox1;
+        private Button submitBtn;
+        private Label output;
     }
 }

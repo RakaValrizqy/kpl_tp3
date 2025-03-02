@@ -1,0 +1,17 @@
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\bin\Debug\net8.0-windows\kpl_tp3.exe
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\bin\Debug\net8.0-windows\kpl_tp3.deps.json
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\bin\Debug\net8.0-windows\kpl_tp3.runtimeconfig.json
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\bin\Debug\net8.0-windows\kpl_tp3.dll
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\bin\Debug\net8.0-windows\kpl_tp3.pdb
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.Form1.resources
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.csproj.GenerateResource.cache
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.AssemblyInfoInputs.cache
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.AssemblyInfo.cs
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.csproj.CoreCompileInputs.cache
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.sourcelink.json
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.dll
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\refint\kpl_tp3.dll
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.pdb
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\kpl_tp3.genruntimeconfig.cache
+D:\Telyu\Sems4\KPL\tp\tp 3\kpl_tp3\kpl_tp3\obj\Debug\net8.0-windows\ref\kpl_tp3.dll
